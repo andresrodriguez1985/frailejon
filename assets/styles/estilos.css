@@ -9,3 +9,9 @@
 .fondomenu3{
     background-color: aqua;
 }
+
+.fuente{
+    font-family: 'Reenie Beanie', cursive;
+    font-size: 25px;
+    color:rgb(0, 34, 255);
+}
